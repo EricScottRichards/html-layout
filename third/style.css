@@ -1,0 +1,44 @@
+header {
+	height: 75px;
+	width: 100%;
+	background: #D8D8D8;
+}
+
+.square {
+	height: 65px;
+	width: 65px;
+	background: #4A90E2;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	float: left;
+}
+
+.text {
+	width: 90%;
+	margin: 30px;	
+}
+
+.bar1 {
+	height: 100px;
+	width: 100%;
+	background: #4A90E2;
+}
+
+.bar2 {
+	height: 100px;
+	width: 100%;
+	background: #50E3C2;
+}
+
+.bar3 {
+	height: 100px;
+	width: 100%;
+	background: #B8E986;
+}
+
+.bar4 {
+	height: 100px;
+	width: 100%;
+	background: #F8E71C;
+}

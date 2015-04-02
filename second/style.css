@@ -1,0 +1,32 @@
+.left {
+	background: #4A90E2;
+	height: 800px;
+	width: calc(100% / 3);
+	float: left;
+}
+
+.center {
+	background: #50E3C2;
+	height: 800px;
+	width: calc(100% / 3);
+	float: left;
+}
+
+.right {
+	background: #B8E986;
+	height: 800px;
+	width: calc(100% / 3);
+	float: left;
+}
+
+.placeholder  {
+	height: 80px;
+	width: calc(100% / 3);
+	margin-top: -150px;
+	float: right;
+	background: #D0021B;
+	text-align: center;
+	color: white;
+	font-size: 24px;
+	padding-top: 70px;
+}
